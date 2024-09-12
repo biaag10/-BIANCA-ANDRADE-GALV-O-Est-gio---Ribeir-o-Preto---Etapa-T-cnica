@@ -1,2 +1,4 @@
-# -BIANCA-ANDRADE-GALV-O-Est-gio---Ribeir-o-Preto---Etapa-T-cnica
+# BIANCA-ANDRADE-GALVAO
+# Estagio-Ribeirao-Preto
+# Etapa-Tecnica
 Questões referentes a etapa técnica do processo seletivo do Estágio - Ribeirão Preto
