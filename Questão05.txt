@@ -5,7 +5,8 @@ usando apenas duas idas até uma das salas das lâmpadas, qual interruptor contr
 
 Primeiro, ligaria o primeiro interruptor e deixaria ligado por alguns minutos, para que a lâmpada aquecesse. 
 Depois, desligaria ele e ligaria o segundo;
-Após isso, iria até a sala das lâmpadas:
- - Lâmpada que está acesa corresponderia ao segundo interruptor;
- - Lâmpada que está apagada, mas quente, corresponderia ao primeiro interruptor;
- - Lâmpada que está apagada, e fria, corresponderia ao terceiro interruptor.
+Após isso, iria até qualquer sala em que se encontra uma das lâmpadas e se:
+ - A lâmpada estivesse acesa corresponderia ao segundo interruptor;
+ - A lâmpada estivesse estivesse apagada, mas quente, corresponderia ao primeiro interruptor;
+ - A lâmpada estivesse apagada, e fria, corresponderia ao terceiro interruptor.
+Descobrindo o interruptor da primeira, iria em outra sala e descobriria o dela, por fim descobriria a da última por eliminação.
