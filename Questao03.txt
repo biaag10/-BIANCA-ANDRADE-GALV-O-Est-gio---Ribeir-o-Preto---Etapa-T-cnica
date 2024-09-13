@@ -6,36 +6,5 @@ enquanto K < INDICE faça
     SOMA = SOMA + K; } 
 imprimir(SOMA);
 
-Ao final do processamento, qual será o valor da variável SOMA?
-
-k = 2
-soma = 2
-
-3
-5
-
-4
-9
-
-5
-14
-
-6
-20
-
-7
-27
-
-8
-35
-
-9
-44
-
-10
-54
-
-11
-65
-
-
+Ao final do processamento, qual será o valor da variável SOMA? 
+O valor será SOMA = 65
